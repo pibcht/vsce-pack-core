@@ -1,0 +1,23 @@
+{
+  "publisher": "pibcht",
+  "name": "pack-core",
+  "version": "0.0.0",
+  "engines": { "vscode": "^1.0.0" },
+  "categories": [ "Extension Packs" ],
+  "displayName": "Pi Pack • Core",
+  "description": "Fundamental extensions for all uses",
+  "icon": "icon.png",
+  "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
+  "keywords": [
+    "Bundle"      , "Core"        , "Dev"         , "Fundamental" ,
+    "Init"        , "Optimize"    , "Powertools"  , "Productivity",
+    "Toolbox"
+  ],
+  "homepage": "https://github.com/pibcht/vsce-pack-core",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pibcht/vsce-pack-core.git"
+  },
+  "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
+  "extensionPack": []
+}
