@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "engines": { "vscode": "^1.38.0" },
   "categories": [ "Extension Packs", "Visualization" ],
   "displayName": "Pi Pack • Core",
