@@ -1,9 +1,9 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "1.0.0",
-  "engines": { "vscode": "^1.38.0" },
-  "categories": [ "Extension Packs", "Visualization" ],
+  "version": "1.1.0",
+  "engines": { "vscode": "^1.77.0" },
+  "categories": [ "Extension Packs", "Formatters", "Visualization" ],
   "displayName": "Pi Pack • Core",
   "description": "Fundamental extensions for all uses",
   "icon": "icon.png",
@@ -15,5 +15,8 @@
   "homepage": "https://github.com/pibcht/vsce-pack-core",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-core.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
-  "extensionPack": [ "mhutchie.git-graph" ]
+  "extensionPack": [
+    "aaron-bond.better-comments", "alefragnani.bookmarks", "mhutchie.git-graph", 
+    "waderyan.gitblame"
+  ]
 }

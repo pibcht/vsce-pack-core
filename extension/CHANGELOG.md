@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0]
+
+### Added
+
+- Better Comments [aaron-bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- Bookmarks [alefragnani.bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
+- Git Blame [waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
+
+### Changed
+
+| package.json                       | path             | from      | to            |
+|------------------------------------|------------------|-----------|---------------|
+| Minimum Visual Studio Code version | `engines.vscode` | `^1.38.0` | `^1.77.0`     |
+| Extension Categories               | `categories`     | `…`       | `+Formatters` |
+
 ## [1.0.0]
 
 ### Added
@@ -15,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-| package.json                       | path             | from     | to        |
-|------------------------------------|------------------|----------|-----------|
-| Minimum Visual Studio Code version | `engines.vscode` | `^1.0.0` | `^1.38.0` |
+| package.json                       | path             | from     | to               |
+|------------------------------------|------------------|----------|------------------|
+| Minimum Visual Studio Code version | `engines.vscode` | `^1.0.0` | `^1.38.0`        |
+| Extension Categories               | `categories`     | `…`      | `+Visualization` |
