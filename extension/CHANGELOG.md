@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-| package.json                       | path             | from     | to        |
-|------------------------------------|------------------|----------|-----------|
-| Minimum Visual Studio Code version | `engines.vscode` | `^1.0.0` | `^1.38.0` |
+| package.json                       | path             | from     | to               |
+|------------------------------------|------------------|----------|------------------|
+| Minimum Visual Studio Code version | `engines.vscode` | `^1.0.0` | `^1.38.0`        |
+| Extension Categories               | `categories`     | `…`      | `+Visualization` |
