@@ -15,5 +15,8 @@
   "homepage": "https://github.com/pibcht/vsce-pack-core",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-core.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
-  "extensionPack": [ "aaron-bond.better-comments", "mhutchie.git-graph", "waderyan.gitblame" ]
+  "extensionPack": [
+    "aaron-bond.better-comments", "alefragnani.bookmarks", "mhutchie.git-graph", 
+    "waderyan.gitblame"
+  ]
 }
