@@ -8,6 +8,10 @@ Fundamental extensions for all uses
 
 Improve your code commenting by annotating with alert, informational, TODOs, and more!
 
+### Bookmarks [alefragnani.bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
+
+Mark lines and jump to them
+
 ### Git Blame [waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
 See git blame information in the status bar.
