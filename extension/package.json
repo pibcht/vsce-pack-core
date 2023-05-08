@@ -12,6 +12,7 @@
     "Bundle", "Core", "Dev", "Fundamental", "Init", "Optimize", "Powertools", 
     "Productivity", "Toolbox"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-core",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-core.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
