@@ -17,7 +17,8 @@
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-core.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
   "extensionPack": [
-    "aaron-bond.better-comments", "alefragnani.bookmarks", "mhutchie.git-graph", 
+    "aaron-bond.better-comments", "alefragnani.bookmarks", 
+    "lacroixdavid1.vscode-format-context-menu", "mhutchie.git-graph", 
     "waderyan.gitblame"
   ]
 }
