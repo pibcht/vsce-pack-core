@@ -18,7 +18,7 @@
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
   "extensionPack": [
     "aaron-bond.better-comments", "alefragnani.bookmarks", 
-    "lacroixdavid1.vscode-format-context-menu", "mhutchie.git-graph", 
-    "usernamehw.errorlens", "waderyan.gitblame"
+    "lacroixdavid1.vscode-format-context-menu", "luisllamas.vscodesnap", 
+    "mhutchie.git-graph", "usernamehw.errorlens", "waderyan.gitblame"
   ]
 }

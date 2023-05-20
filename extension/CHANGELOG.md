@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Error Lens [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - Format in context menus [lacroixdavid1.vscode-format-context-menu](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
+- VSCodeSnap [luisllamas.vscodesnap](https://marketplace.visualstudio.com/items?itemName=luisllamas.vscodesnap)
 
 ## [1.1.0]
 
