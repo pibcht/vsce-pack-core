@@ -12,6 +12,14 @@ Improve your code commenting by annotating with alert, informational, TODOs, and
 
 Mark lines and jump to them
 
+### Error Lens [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+Improve highlighting of errors, warnings and other language diagnostics.
+
+### Format in context menus [lacroixdavid1.vscode-format-context-menu](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
+
+VSCode extension to format multiple files with right click context menu
+
 ### Git Blame [waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
 See git blame information in the status bar.
@@ -19,3 +27,7 @@ See git blame information in the status bar.
 ### Git Graph [mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
+
+### VSCodeSnap [luisllamas.vscodesnap](https://marketplace.visualstudio.com/items?itemName=luisllamas.vscodesnap)
+
+Take beautiful screenshots of your code

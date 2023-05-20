@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs", "Formatters", "Visualization" ],
   "displayName": "Pi Pack • Core",
@@ -9,14 +9,16 @@
   "icon": "icon.png",
   "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
   "keywords": [
-    "Bundle", "Core", "Dev", "Fundamental", "Init", "Toolbox", "Optimize", 
-    "Powertools", "Productivity"
+    "Bundle", "Core", "Dev", "Fundamental", "Init", "Optimize", "Powertools", 
+    "Productivity", "Toolbox"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-core",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-core.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
   "extensionPack": [
-    "aaron-bond.better-comments", "alefragnani.bookmarks", "mhutchie.git-graph", 
-    "waderyan.gitblame"
+    "aaron-bond.better-comments", "alefragnani.bookmarks", 
+    "lacroixdavid1.vscode-format-context-menu", "luisllamas.vscodesnap", 
+    "mhutchie.git-graph", "usernamehw.errorlens", "waderyan.gitblame"
   ]
 }
