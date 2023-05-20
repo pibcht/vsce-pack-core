@@ -28,6 +28,10 @@ See git blame information in the status bar.
 
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
 
+### Trailing Spaces [shardulm94.trailing-spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+
+Highlight trailing spaces and delete them in a flash!
+
 ### VSCodeSnap [luisllamas.vscodesnap](https://marketplace.visualstudio.com/items?itemName=luisllamas.vscodesnap)
 
 Take beautiful screenshots of your code

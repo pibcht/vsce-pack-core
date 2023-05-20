@@ -19,6 +19,7 @@
   "extensionPack": [
     "aaron-bond.better-comments", "alefragnani.bookmarks", 
     "lacroixdavid1.vscode-format-context-menu", "luisllamas.vscodesnap", 
-    "mhutchie.git-graph", "usernamehw.errorlens", "waderyan.gitblame"
+    "mhutchie.git-graph", "shardulm94.trailing-spaces", "usernamehw.errorlens", 
+    "waderyan.gitblame"
   ]
 }
