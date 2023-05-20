@@ -12,6 +12,10 @@ Improve your code commenting by annotating with alert, informational, TODOs, and
 
 Mark lines and jump to them
 
+### Error Lens [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+Improve highlighting of errors, warnings and other language diagnostics.
+
 ### Format in context menus [lacroixdavid1.vscode-format-context-menu](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 
 VSCode extension to format multiple files with right click context menu
