@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • Core",
@@ -24,6 +24,7 @@
     "aaron-bond.better-comments",
     "alefragnani.bookmarks",
     "lacroixdavid1.vscode-format-context-menu",
+    "luisllamas.vscodesnap",
     "mhutchie.git-graph",
     "usernamehw.errorlens",
     "waderyan.gitblame"
