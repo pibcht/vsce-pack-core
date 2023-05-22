@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs", "Formatters", "Visualization" ],
   "displayName": "Pi Pack • Core",
@@ -17,8 +17,9 @@
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-core.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
   "extensionPack": [
-    "aaron-bond.better-comments", "alefragnani.bookmarks", 
+    "aaron-bond.better-comments", "alefragnani.bookmarks", "Gruntfuggly.todo-tree", 
     "lacroixdavid1.vscode-format-context-menu", "luisllamas.vscodesnap", 
-    "mhutchie.git-graph", "usernamehw.errorlens", "waderyan.gitblame"
+    "mhutchie.git-graph", "ryu1kn.partial-diff", "shardulm94.trailing-spaces", 
+    "usernamehw.errorlens", "waderyan.gitblame"
   ]
 }
