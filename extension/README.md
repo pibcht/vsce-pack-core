@@ -43,3 +43,7 @@ Highlight trailing spaces and delete them in a flash!
 ### VSCodeSnap [luisllamas.vscodesnap](https://marketplace.visualstudio.com/items?itemName=luisllamas.vscodesnap)
 
 Take beautiful screenshots of your code
+
+### XML Tools [DotJoshJohnson.xml](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
+XML Formatting, XQuery, and XPath Tools for Visual Studio Code
