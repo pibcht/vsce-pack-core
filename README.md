@@ -12,6 +12,7 @@
 - [Format in context menus](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
