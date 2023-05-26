@@ -28,6 +28,10 @@ See git blame information in the status bar.
 
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
 
+### Markdown Shortcuts [mdickin.markdown-shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
+
+Shortcuts for Markdown editing
+
 ### markdownlint [DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 Markdown linting and style checking for Visual Studio Code
