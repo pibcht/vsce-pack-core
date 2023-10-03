@@ -20,6 +20,10 @@ Improve highlighting of errors, warnings and other language diagnostics.
 
 VSCode extension to format multiple files with right click context menu
 
+### FracturedJson [j-brooke.fracturedjsonvsc](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc)
+
+A JSON formatter that produces human-readable but fairly compact output.
+
 ### Git Blame [waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
 See git blame information in the status bar.

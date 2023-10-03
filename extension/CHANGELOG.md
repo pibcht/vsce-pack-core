@@ -9,9 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- FracturedJson [j-brooke.fracturedjsonvsc](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc)
 - Markdown Shortcuts [mdickin.markdown-shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
 - markdownlint [DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - XML Tools [DotJoshJohnson.xml](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
+### Changed
+
+| package.json                       | path             | from      | to        |
+|------------------------------------|------------------|-----------|-----------|
+| Minimum Visual Studio Code version | `engines.vscode` | `^1.77.0` | `^1.82.3` |
 
 ## [2.9.0]
 

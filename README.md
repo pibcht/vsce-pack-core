@@ -10,6 +10,7 @@
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [Format in context menus](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
+- [FracturedJson](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc)
 - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)

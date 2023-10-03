@@ -1,8 +1,8 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "3.12.0",
-  "engines": { "vscode": "^1.77.0" },
+  "version": "3.13.0",
+  "engines": { "vscode": "^1.82.3" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • Core",
   "description": "Fundamental extensions for all uses",
@@ -26,6 +26,7 @@
     "DavidAnson.vscode-markdownlint",
     "DotJoshJohnson.xml",
     "Gruntfuggly.todo-tree",
+    "j-brooke.fracturedjsonvsc",
     "lacroixdavid1.vscode-format-context-menu",
     "luisllamas.vscodesnap",
     "mdickin.markdown-shortcuts",
