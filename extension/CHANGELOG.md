@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- FracturedJson [j-brooke.fracturedjsonvsc](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc)
+
+### Changed
+
+| package.json                       | path             | from      | to        |
+|------------------------------------|------------------|-----------|-----------|
+| Minimum Visual Studio Code version | `engines.vscode` | `^1.77.0` | `^1.82.3` |
+
 ## [1.4.0]
 
 ### Added
