@@ -1,6 +1,6 @@
 # Pi Pack • Core
 
-<div align="center"><img src="/extension/icon.png" title="Pi Pack • Core" alt="Pi Pack • Core"></div>
+<div align="center"><picture><img src="/extension/icon.png" title="Pi Pack • Core" alt="Pi Pack • Core"></picture></div>
 
 ## <picture><img alt="VS Code icon" src="assets/vscode.png"></picture> Extension Pack
 

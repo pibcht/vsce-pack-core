@@ -1,0 +1,52 @@
+on:
+  push:
+    branches:
+      - prerelease*
+      - release*
+
+jobs:
+  run_vsce:
+    name: Visual Studio Code Extension
+    runs-on: ubuntu-latest
+    container:
+      image: alpine:latest
+    steps:
+      - name: Install vsce
+        id: vsce
+        run: |
+          apk add --no-cache --update npm
+          npm install --global @vscode/vsce
+      - name: Checkout repository
+        id: checkout
+        if: steps.vsce.outcome == 'success'
+        uses: actions/checkout@v3
+      - name: Build the Extension (Pre-Release)
+        id: build-prerelease
+        if: |
+          steps.checkout.outcome == 'success'
+          && startsWith(github.ref_name, 'prerelease')
+        run: |
+          cd extension
+          vsce package --githubBranch ${{ github.ref_name }} --pre-release
+      - name: Publish the Extension (Pre-Release)
+        id: publish-prerelease
+        if: |
+          steps.build-prerelease.outcome == 'success'
+          && startsWith(github.ref_name, 'prerelease')
+        run: |
+          vsce publish --packagePath extension/*.vsix --githubBranch ${{ github.ref_name }} --pre-release --pat ${{ secrets.VSCE_TOKEN }}
+      - name: Build the Extension (Release)
+        id: build-release
+        if: |
+          steps.checkout.outcome == 'success'
+          && startsWith(github.ref_name, 'release')
+        run: |
+          cd extension
+          vsce package --githubBranch ${{ github.ref_name }}
+      - name: Publish the Extension (Release)
+        id: publish-release
+        if: |
+          steps.build-release.outcome == 'success'
+          && startsWith(github.ref_name, 'release')
+        run: |
+          vsce publish --packagePath extension/*.vsix --githubBranch ${{ github.ref_name }} --pat ${{ secrets.VSCE_TOKEN }}

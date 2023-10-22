@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "engines": { "vscode": "^1.0.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • Core",
@@ -13,6 +13,7 @@
     "Init"        , "Optimize"    , "Powertools"  , "Productivity",
     "Toolbox"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-core",
   "repository": {
     "type": "git",
