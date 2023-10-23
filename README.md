@@ -7,6 +7,7 @@
 ### Extensions list
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ### Liens

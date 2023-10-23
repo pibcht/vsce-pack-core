@@ -10,13 +10,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Better Comments [aaron-bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- Git Blame [waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
 ### Changed
 
-| package.json                       | path             | from       | to            |
-|------------------------------------|------------------|------------|---------------|
-| Minimum Visual Studio Code version | `engines.vscode` | `^1.38.0`  | `^1.65.0`     |
-| Extension Categories               | `categories`     | `…`        | `+Formatters` |
+| package.json                       | path             | from      | to            |
+|------------------------------------|------------------|-----------|---------------|
+| Minimum Visual Studio Code version | `engines.vscode` | `^1.38.0` | `^1.77.0`     |
+| Extension Categories               | `categories`     | `…`       | `+Formatters` |
 
 ## [2.0.0]
 
