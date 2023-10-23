@@ -4,10 +4,6 @@ Fundamental extensions for all uses
 
 ## Extensions
 
-### Better Comments [aaron-bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-
-Improve your code commenting by annotating with alert, informational, TODOs, and more!
-
 ### Bookmarks [alefragnani.bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
 
 Mark lines and jump to them

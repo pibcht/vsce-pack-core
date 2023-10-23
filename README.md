@@ -6,7 +6,6 @@
 
 ### Extensions list
 
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [Format in context menus](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)

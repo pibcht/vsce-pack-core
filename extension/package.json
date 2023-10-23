@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-core",
-  "version": "3.13.0",
+  "version": "3.14.0",
   "engines": { "vscode": "^1.82.3" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • Core",
@@ -21,7 +21,6 @@
   },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-core/issues" },
   "extensionPack": [
-    "aaron-bond.better-comments",
     "alefragnani.bookmarks",
     "DavidAnson.vscode-markdownlint",
     "DotJoshJohnson.xml",
