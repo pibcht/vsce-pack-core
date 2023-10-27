@@ -12,6 +12,7 @@
 - [Format in context menus](https://marketplace.visualstudio.com/items?itemName=lacroixdavid1.vscode-format-context-menu)
 - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 - [VSCodeSnap](https://marketplace.visualstudio.com/items?itemName=luisllamas.vscodesnap)
 
 ### Liens
