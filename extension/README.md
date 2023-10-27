@@ -4,10 +4,6 @@ Fundamental extensions for all uses
 
 ## Extensions
 
-### Better Comments [aaron-bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-
-Improve your code commenting by annotating with alert, informational, TODOs, and more!
-
 ### Bookmarks [alefragnani.bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
 
 Mark lines and jump to them
@@ -20,6 +16,10 @@ Improve highlighting of errors, warnings and other language diagnostics.
 
 VSCode extension to format multiple files with right click context menu
 
+### FracturedJson [j-brooke.fracturedjsonvsc](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc)
+
+A JSON formatter that produces human-readable but fairly compact output.
+
 ### Git Blame [waderyan.gitblame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
 See git blame information in the status bar.
@@ -27,6 +27,14 @@ See git blame information in the status bar.
 ### Git Graph [mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
+
+### Markdown Shortcuts [mdickin.markdown-shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
+
+Shortcuts for Markdown editing
+
+### markdownlint [DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+Markdown linting and style checking for Visual Studio Code
 
 ### Partial Diff [ryu1kn.partial-diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 
@@ -43,3 +51,7 @@ Highlight trailing spaces and delete them in a flash!
 ### VSCodeSnap [luisllamas.vscodesnap](https://marketplace.visualstudio.com/items?itemName=luisllamas.vscodesnap)
 
 Take beautiful screenshots of your code
+
+### XML Tools [DotJoshJohnson.xml](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
+XML Formatting, XQuery, and XPath Tools for Visual Studio Code
