@@ -6,6 +6,8 @@
 
 ### Extensions list
 
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
 ### Liens
 
 - View Extension [README](/extension/README.md)
